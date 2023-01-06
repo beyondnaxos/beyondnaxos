@@ -8,7 +8,7 @@
 <!-- presentation -->
 <h2>Who am I ?</h2>
 <p> I am a young developer from France</p>
-<p>Passionate about programming , design and music and A.I</p>
+<p>Passionate about programming , design, music and A.I</p>
 <p>I'm currently learnning OpenCV with python, neural network and some related subjects</p>
 
 <!-- contact -->
