@@ -149,6 +149,8 @@
 <h2>RANKING</h2>
 
  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondnaxos)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&theme=onedark)
 <br>
