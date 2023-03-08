@@ -100,8 +100,7 @@
     height="50px"
   />
    <img
-    src="[https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
-)"
+    src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"
     alt="js-logo-gif"
     height="50px"
   />
