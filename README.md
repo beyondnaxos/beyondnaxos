@@ -99,11 +99,11 @@
     alt="js-logo-gif"
     height="50px"
   />
-   <img
+<!--    <img
     src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"
     alt="js-logo-gif"
     height="50px"
-  />
+  /> -->
 
 </div>
 <h1></h1>
