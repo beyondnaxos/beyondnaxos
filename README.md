@@ -10,7 +10,12 @@
 <p> I am a young developer from France</p>
 <p>Passionate about programming , design, music and A.I</p>
 <p>I'm currently learnning OpenCV with python, neural network and some related subjects</p>
-
+  
+<!-- MyPackages -->
+  <h2>Npm Creations</h2>
+  <a href="https://www.npmjs.com/package/datablify"> Datablify - A simple React Table Generator </a>
+  <a href="https://www.npmjs.com/package/momorse"> Momorse - A simple React Morse Translator </a>
+  
 <!-- contact -->
 
 <p>Contact : beyondnaxos@gmail.com</p>
