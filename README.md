@@ -13,7 +13,7 @@
   
 <!-- MyPackages -->
   <h2>Npm Creations</h2>
-  <a href="https://www.npmjs.com/package/datablify"> Datablify - A simple React Table Generator</a><span> +1200 downloads </span>
+  <a href="https://www.npmjs.com/package/datablify"> Datablify - A simple React Table Generator</a><span> +1500 downloads </span>
   <br>
   <a href="https://www.npmjs.com/package/momorse"> Momorse - A simple React Morse Translator </a>
   <br>
