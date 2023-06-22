@@ -158,7 +158,9 @@
 <h2>RANKING</h2>
 <br>
 
+![](https://github-trophies.vercel.app/?username=beyondnaxos)
 
 <br>
 <br>
+
 ![](https://komarev.com/ghpvc/?username=beyondnaxos&color=blue&style=for-the-badge)
