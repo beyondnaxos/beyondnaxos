@@ -157,7 +157,8 @@
 <h1></h1>
 <h2>RANKING</h2>
  <br>
-![](https://github-trophies.vercel.app/?username=beyondnaxos)
+![trophy](https://github-trophies.vercel.app/?username=beyondnaxos)
+<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&theme=onedark)
 <br>
 <br>
