@@ -159,8 +159,8 @@
  <br>
 ![trophy](https://github-trophies.vercel.app/?username=beyondnaxos)
 <br>
-![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&theme=onedark)
-<br>
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&theme=onedark)
+<br> -->
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=beyondnaxos&color=blue&style=for-the-badge)
