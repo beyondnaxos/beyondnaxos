@@ -4,6 +4,7 @@
 <img src="img\bena.png" alt="Logo bena" height="300px"/>
 <h1></h1>
 <h1></h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- presentation -->
 <h2>Who am I ?</h2>
