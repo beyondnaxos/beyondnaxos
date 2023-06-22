@@ -158,7 +158,7 @@
 <h2>RANKING</h2>
  <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&no-bg=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&theme=onedark)
 <br>
 <br>
