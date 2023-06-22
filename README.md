@@ -156,11 +156,11 @@
 <h1></h1>
 <h1></h1>
 <h2>RANKING</h2>
- <br>
-![trophy](https://github-trophies.vercel.app/?username=beyondnaxos)
 <br>
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=beyondnaxos&theme=onedark)
-<br> -->
+![](https://github-trophies.vercel.app/?username=beyondnaxos)
+
+<br>
+
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=beyondnaxos&color=blue&style=for-the-badge)
