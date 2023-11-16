@@ -7,7 +7,7 @@
 
 
 <!-- presentation -->
-<h2>Who am I ?</h2>
+<h2> Who am I ?</h2>
 <p> I am a young developer from France</p>
 <p>Passionate about programming , design, music and A.I</p>
 
