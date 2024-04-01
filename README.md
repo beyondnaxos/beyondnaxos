@@ -1,7 +1,7 @@
 <div align="left">
 <h1></h1>
 <h1></h1>
-<img src="img\bena.png" alt="Logo bena" height="300px"/>
+<img src="https://media.licdn.com/dms/image/D4E16AQEyd-PlgXy-hA/profile-displaybackgroundimage-shrink_350_1400/0/1693229545505?e=1717632000&v=beta&t=n7Ira04DEVF7YV149UkBPqklfayVGJv2RTEYf5Aucx0" alt="Logo bena" height="300px"/>
 <h1></h1>
 <h1></h1>
 
