@@ -17,19 +17,13 @@
 **Well Mate: Project Manager for a Mobile App**  
 <p>For Well Mate, I oversee the development of a mobile app, making sure that we consistently meet user needs throughout the development process.</p>
 
-
+<h1></h1>
+<h1></h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyondnaxos&theme=dark" alt="beyondnaxos" /></p>
 
-
-
-  <h2>Npm Creations</h2>
-  <a href="https://www.npmjs.com/package/datablify"> Datablify - A simple React Table Generator</a><span> +2000 downloads </span>
-  <br>
-  <a href="https://www.npmjs.com/package/momorse"> Momorse - A simple React Morse Translator </a>
-  <br>
-  <br>
-<!-- contact -->
+<h1></h1>
+<h1></h1>
 
 <p>Contact : beyondnaxos@gmail.com</p>
 
