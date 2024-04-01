@@ -6,11 +6,21 @@
 <h1></h1>
 
 <!-- presentation -->
-<h2> Who am I ?</h2>
-<p> I am a young developer from France</p>
-<p>Passionate about programming , design, music and A.I</p>
+<h1>Hi there, I'm Anthony.</h1>  
+<p>I lead Beyond Naxos Agency, a firm rooted in France and specializing in web & app development and graphic design. We're all about delivering high-quality digital services with a focus on simplicity, efficiency, and cutting-edge innovation.</p>
 
-<p>goal : commit every day in my life </p>
+### Collaborations and Projects
+
+**EnjoyTravel: Front-End Development Consultant**  
+<p>At EnjoyTravel, I leverage my front-end development expertise to enhance user experiences, ensuring interfaces are both functional and visually appealing.</p>
+
+**Well Mate: Project Manager for a Mobile App**  
+<p>For Well Mate, I oversee the development of a mobile app, making sure that we consistently meet user needs throughout the development process.</p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyondnaxos&theme=dark" alt="beyondnaxos" /></p>
+
 
 
   <h2>Npm Creations</h2>
