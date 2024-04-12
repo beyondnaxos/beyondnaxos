@@ -20,8 +20,6 @@
 <h1></h1>
 <h1></h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beyondnaxos&theme=dark" alt="beyondnaxos" /></p>
-
 
 <h1></h1>
 <h1></h1>
